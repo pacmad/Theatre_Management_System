@@ -1,0 +1,4 @@
+interface Ticket
+{
+    void price();
+}
